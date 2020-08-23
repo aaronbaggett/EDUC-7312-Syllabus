@@ -1,0 +1,787 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+  \setmainfont[]{Times New Roman}
+  \setmonofont[]{Lucida Console}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{fancyhdr, lastpage}
+\pagestyle{fancy}
+% \usepackage{graphicx}
+% \graphicspath{{figs/}}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{verbatim}
+\usepackage{hanging}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{lscape}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage{tcolorbox}
+\usepackage{array}
+\newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}}
+
+\usepackage{hyperref}
+\hypersetup{  
+   colorlinks,   
+   citecolor=blue,
+   linkcolor=blue,
+   urlcolor=blue,
+}
+
+\usepackage{color, colortbl}
+\definecolor{Gray}{gray}{0.9}
+
+\renewcommand{\headrulewidth}{0pt}
+
+\chead{}
+\rhead[p. \thepage\ of\ \pageref*{LastPage}]{p. \thepage\ of\ \pageref*{LastPage}}
+\lhead{}
+
+\fancyfoot{}
+\fancyfoot[L]{\textcolor{gray}{EDUC 7312-01}}
+\fancyfoot[C]{\textcolor{gray}{Fall 2020}}
+\fancyfoot[R]{\textcolor{gray}{Aaron R. Baggett, Ph.D.}}
+
+
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+
+\makeatletter
+\setlength{\@fptop}{0pt}
+\makeatother
+
+\begin{figure}[t!]
+  \centering
+  \includegraphics[keepaspectratio, width=0.15\textwidth]{../Figs/Seal-Black}
+\end{figure}
+
+
+\begin{center}
+{\LARGE{\bf{EDUC 7312-01 Research III Advanced Design and Methods}}}\\
+% \vspace{.5mm}
+% {\Large{\bf{Dissertation I}}}\\
+{\small{University of Mary Hardin-Baylor}}\\
+\vspace{.15in}
+{\large{Fall 2020}}
+\end{center}
+
+\thispagestyle{empty}
+
+\vspace{3mm}
+
+\vspace{.25in}
+
+\section{Concact Information}
+
+\textbf{Instructor:} Aaron R. Baggett, Ph.D.\\
+\textbf{Email:}
+\texttt{\href{mailto:abaggett@umhb.edu}{abaggett@umhb.edu}}\\
+\textbf{Office Phone:} (254) 295-4553\\
+\textbf{Office Location:} Wells 140\\
+\textbf{Office Hours:} MWF: 9:00 AM--11:00 AM; MW: 1:00 -- 3:00 PM; TR:
+1:00 PM -- 3:00 PM, and by
+\texttt{\href{mailto:abaggett@umhb.edu}{appointment}}
+
+\begin{tcolorbox}
+[width=\linewidth, sharp corners=all, colback=white!95!red]
+NOTE: All student meetings for the Fall 2020 semester will occur via Dr. Baggett's personal \texttt{\href{https://umhb.zoom.us/j/5393191651}{Zoom ID}}
+\end{tcolorbox}
+
+\subsection{Description}
+
+The purpose of Research III is to explore both quantitative and
+qualitative methods with an emphasis in data analysis. Topics include
+inferential statistics, triangulation of data, and rigor. Students will
+develop a research proposal. SPSS software will be used for quantitative
+analysis.
+
+\subsection{Meeting}
+
+\textbf{Dates:}
+
+Students enrolled in EDUC 7312: Research III Advanced Design and Methods
+will meet together a total of five times throughout the Fall 2020
+semester between 8:30 PM--12:00 PM in the Parker Academic Center (PAC)
+room 222
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Saturday, September 12, 2020, PAC 222
+\item
+  Saturday, October 03, 2020, PAC 222
+\item
+  Saturday, October 24, 2020, PAC 222
+\item
+  Saturday, November 14, 2020, PAC 222
+\item
+  Saturday, December 05, 2020, PAC 222
+\end{enumerate}
+
+\textbf{Course Website:}
+\texttt{\href{https://mycourses.umhb.edu/courses/23599}{myCourses}}
+
+\newpage
+\subsection{Advanced Academic Activity}
+
+Doctoral courses contain appropriate advanced academic activity
+reflected in the areas of content, process, and product. The advanced
+activity is facilitated through the dimension of critical thinking,
+synthesis and integration of materials, depth of engagement of
+materials, and contribution to scholarship. The purpose of advanced
+academic activity is to demonstrate a higher level of sophistication and
+to emphasize separation from masters level courses.
+
+\subsection{Course Objectives}
+
+Upon completion of this course, you should be able to:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Understand basic to intermediate principles of statistics needed to
+  both consume and conduct educational and social science research.
+\item
+  Communicate and present statistical ideas clearly in oral and written
+  forms using appropriate technical terms and deliver data analysis
+  results sufficient for both a technical and non-technical audience.
+\end{enumerate}
+
+\subsection{Student Learning Objectives}
+
+Upon completion of all course modules, you should be able to:
+
+\textbf{1. Module 1: A Gentle Introduction to Advanced Statistics in
+Research}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Define the standard normal distribution and compute the standard
+  normal transformation.
+\item
+  Understand the relationship between scores in a normal distribution
+  and their respective probability value.
+\item
+  Understand and synthesize the concepts of statistical significance and
+  effect size.
+\end{enumerate}
+
+\textbf{2. Module 2: Exploring and Assessing Relationships Between
+Variables}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Identify the direction and strength of both linear and non-linear
+  correlations.
+\item
+  Compute and interpret linear and non-linear correlation coefficients
+  using SPSS.
+\item
+  Summarize visually and verbally the results of linear and non-linear
+  correlation coefficients.
+\end{enumerate}
+
+\textbf{3. Module 3: Basic and Advanced Concepts in Predictive Modeling}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Identify occasions when a predictive model is preferred, over others,
+  in educational and social science research.
+\item
+  Compute and interpret the slope, intercept, and response variable(s)
+  in both simple and multiple linear regression models using SPSS.
+\item
+  Summarize visually and verbally the results of both simple and
+  multiple linear regression models.
+\end{enumerate}
+
+\textbf{4. Module 4: Making Advanced Statistical Inferences Between and
+Within Groups}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Identify occasions when either between- and within-groups designs are
+  preferred, over others, in educational and social science research.
+\item
+  Identify statistical assumptions for both one-way and factorial
+  between- and within-groups designs.
+\item
+  Compute and interpret results of main effects, interaction effects,
+  and post-hoc tests in both one-way and factorial between- and
+  within-groups designs using SPSS.
+\item
+  Summarize visually and verbally the results of both one-way and
+  factorial between- and within-groups designs.
+\end{enumerate}
+
+\subsection{Credit Hour(s)}
+
+For online, hybrid, and other nontraditional modes of delivery, credit
+hours are assigned based on learning outcomes that are equivalent to
+those in a traditional course setting; forty-five (45) hours of work by
+a typical student for each hour of credit.
+
+\subsection{Readings}
+
+Students are required to obtain a copy of the following required
+textbook.
+
+\begin{hangparas}{.4in}{1}
+Diez, D. M.,  \c{C}etinkaya-Rundel, M., \& Barr, C. D. (2019).  {\em{OpenIntro statistics}} (4\textsuperscript{th} ed.).  OpenIntro.
+\end{hangparas}
+
+All other assigned readings will be provided on the
+\texttt{\href{https://mycourses.umhb.edu/courses/23599}{course website}}
+under the
+\texttt{\href{https://mycourses.umhb.edu/courses/23599/files/folder/Readings}{Readings}}
+tab.
+
+\subsection{Required Software}
+
+Any data and statistical analyses in EDAD 7312 will be conducted using
+IBM\textsuperscript{\textregistered}~SPSS\textsuperscript{\textregistered}~Statistics.
+During class meetings, students may access local
+SPSS\textsuperscript{\textregistered}~installations on campus computers.
+However, you may consider purchasing at least a 6-month license to
+download and install SPSS\textsuperscript{\textregistered}~on your own
+computer(s). Below are a few online educational software retailers who
+offer heavily discounted versions of
+IBM\textsuperscript{\textregistered}~SPSS\textsuperscript{\textregistered}~Statistics
+for students.
+
+\emph{Note}: As of \today, the latest version number is 27 However,
+versions 23, 24, 25, and 26 should also be compatible for all data
+analyses conducted throughout this course. Keep in mind previous
+versions sell for the same price as the current version. Prior to
+purchasing SPSS\textsuperscript{\textregistered}~be sure you are
+selecting the versions compatible with your particular computer's
+operating system (i.e., Windows, macOS, etc.).
+IBM\textsuperscript{\textregistered}~SPSS\textsuperscript{\textregistered}~Statistics
+is not compatible with iOS, iPadOS, or Chrome OS.
+
+\textbf{How to purchase SSPS:}
+
+\begin{tcolorbox}
+[width=\linewidth, sharp corners=all, colback=white!95!red]
+NOTE: IBM\textsuperscript{\textregistered}\ SPSS\textsuperscript{\textregistered}\ Statistics Standard GradPack will be sufficient for EDUC 7310. No need to purchase the Premium GradPack.
+\end{tcolorbox}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \texttt{\href{https://onthehub.com/spss/}{OnTheHub}}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Select \textbf{Students} buy now.
+  \item
+    Scroll down until you find your computer's operating system (i.e.,
+    Windows, macOS, etc.) and your desired rental duration (i.e., 06- or
+    12-month).
+  \item
+    Add to Cart.
+  \end{enumerate}
+\item
+  \texttt{\href{https://www.journeyed.com/products/IBM+SPSS/IBM+SPSS+Statistics}{journeyEd}}
+
+  \begin{enumerate}
+  \def\labelenumii{\arabic{enumii}.}
+  \tightlist
+  \item
+    Scroll to approximately one-third of the way down the page and look
+    for \textbf{IBM SPSS Statistics Standard Grad Pack 27.0 Academic}.
+  \item
+    Select the link applicable to your operating system.
+  \item
+    Note: only 12-month licenses are available from journeyEd.
+  \end{enumerate}
+\end{enumerate}
+
+\subsection{Academic Integrity}
+
+UMHB's policy on Classroom Expectations and Ethics will be strictly
+upheld in this course. If you have not read it and all subsequent
+sections, it is your responsibility to do so. You may find it online
+here:
+\href{http://catalog.umhb.edu/2019-2020/Graduate-Catalog/Classroom-Expectations-and-Ethics}{\texttt{Classroom Expectations and Ethics}}.
+The omnibus policy outlines University requirements concerning Christian
+citizenship, students' responsibilities, class attendance, academic
+decorum, and academic integrity.
+
+\subsection{Disabled Student Services and Accomodations}
+
+It is the student's responsibility to request disability accommodations.
+Students requesting an accommodation for a disability, must contact the
+UMHB
+\href{http://cths.umhb.edu/disability}{\texttt{Counseling, Testing \& Health Services}}
+as early as possible in the term.
+\href{http://catalog.umhb.edu/en/2019-2020/Graduate-Catalog}{\texttt{The Course Catalog}},
+\href{http://students.umhb.edu/student-handbook}{\texttt{Student Handbook}}
+and \href{https://go.umhb.edu/}{\texttt{UMHB website}} provide more
+details regarding the process by which accommodation requests will be
+reviewed.
+
+For more information, please contact:
+
+\textbf{Blayne Alaniz, Director of Student Disability Services and
+Testing Services}\\
+UMHB Box 8437\\
+900 College Street\\
+Belton, Texas 76513\\
+Office: (254) 295-4739\\
+Fax: (254) 295-4196\\
+Email: \texttt{\href{mailto:balaniz@umhb.edu}{balaniz@umhb.edu}}
+
+\subsection{Course Structure}
+
+All assignments and other coursework are completed individually.
+However, during and between certain class meetings you may either be
+assigned to or asked to form small groups in order to collaborate on
+data analysis projects and/or presentation(s) You will be guided through
+the following course learning modules. See Section 1.5 for corresponding
+student learning outcomes per learning module.
+
+\subsubsection{Learning Modules}
+
+EDAD 7324 is divided into four (4) learning modules:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  A Gentle Introduction to Advanced Statistics in Research
+\item
+  Exploring and Assessing Relationships Between Variables
+\item
+  Basic and Advanced Concepts in Predictive Modeling
+\item
+  Making Advanced Statistical Inferences Between and Within Groups
+\end{enumerate}
+
+\subsection{Course Communication}
+
+\subsubsection{Email}
+
+Most all course communication outside of class will take place via
+email. I will routinely email you course updates and announcements to
+your UMHB-assigned email address. Thus, you should check your email
+frequently. Likewise, due to the nature of this class and the
+corresponding assignments, you will likely need to contact me with
+questions. I am committed to responding as quickly as possible to your
+questions via email. As a result, you can expect me to respond, on
+average, within several hours of your email---often sooner. However, in
+some circumstances, a personal visit during office hours or other
+scheduled appointment may be more efficient than email. You are welcome
+to call me on my office line: (254) 295-4553. This can be an even more
+efficient method for quick troubleshooting inquiries.
+
+\subsubsection{Remind}
+
+There may be occasions when alerting you to course-related updates may
+be most effective in real-time. In these situations, I will communicate
+with you through a free, safe, and one-way messaging service called
+Remind. To sign up for these alerts, text \texttt{@educ7312} to 81010
+and follow the instructions. If you have trouble with this method, try
+texting \texttt{@educ7312} to (254) 296-8301. Additionally, although not
+likely, there may be extenuating circumstances which require me to delay
+and/or cancel a class or other meeting.
+
+\section{Course Requirements}
+
+\subsection{Individual and Team Assignments}
+
+\subsubsection{Journal Article Critique}
+
+The purpose of this assignment is to read and examine critically all
+sections of a peer-reviewed journal article. As a student of educational
+research, it is imperative that you gain familiarity and comfort with
+the structure/purpose of the scientific literature. \emph{A detailed
+submission template and grading rubric will be provided}.
+
+For each critique, you will select one quantitative research article
+published within the last five years in a peer-reviewed journal. You are
+free to select any article from any reputable, peer-reviewed journal
+under the following conditions:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  The topic of research and theoretical framework are \emph{unrelated}
+  to your
+  dissertation.\footnote{The purpose of forcing you to branch outside of your own topic/theoretical framework is to allow you to, hopefully, experience different approaches to your own planned quantitative methodology. For example, various disciplines use a variety of nomenclature to describe the elements of research methods and design. Assume you have committed to learning how to play classical piano. All you listen to, practice, and perform are arrangements from the classical greats. However, imagine the perspective you might gain by listening to a jazz pianist improvise? The point is to expose you to various ways in which your methodology is implemented in other "genres" of research outside of you own. The more familiar you can be with your methodology now, the better off you will be both during your oral qualifying exam as well as your dissertation proposal presentation.}
+\item
+  However, the author(s) utilized quantitative methodology similar to or
+  identical to that of your own planned research, as you currently
+  understand it.
+\end{enumerate}
+
+Journal article critiques are due on the following dates:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Sunday, February 09, 2020
+\item
+  Sunday, March 29, 2020
+\end{enumerate}
+
+\subsubsection{Special Topics Team Presentation}
+
+This assignment consists of pairs of students presenting one or more
+special topics from a section(s) of a single chapter from the textbook.
+Teams should prepare a thorough lecture with accompanying slides,
+handouts, etc. You should use no fewer than three additional academic
+resources, not counting the textbook, to supplement your presentation.
+Lectures should be organized, rigorous, and comprehensive. You should
+assume the burden of responsibility for providing your peers everything
+you can in order to ensure they have as complete an understanding about
+your assigned topic(s) as you and your partner. They will do the same.
+\emph{A detailed submission template and grading rubric will be
+provided}.
+
+Team numbers and student pairs were generated using a random sampling
+permutation method. Based on the team number, chapter assignments and
+dates were implemented by the instructor.
+
+\begin{table}[H]
+\begin{center}
+\caption{Special Topics Team Presentation Dates}
+\vspace{3mm}
+\begin{tabular}{llll}
+\hline
+\textbf{Team} & \textbf{Students} & \textbf{Topics} & \textbf{Presentation Date} \\
+\hline
+\multirow{2}{*}{1} & Wendy Gamble & \multirow{2}{*}{Chapter 6} & \multirow{2}{*}{Friday, January 31, 2020} \\
+ & Carmen Lewis &  &  \\
+\hline
+\multirow{3}{*}{2} & John Bate & \multirow{3}{*}{Chapter 7} & \multirow{3}{*}{Friday, January 31, 2020} \\
+& Autumn Leal-Shopp &  &  \\
+& Kemi Okafor &  &  \\
+\hline
+\multirow{3}{*}{3} & Lyndsae Benton & \multirow{3}{*}{Chapter 8} & \multirow{3}{*}{Friday, January 31, 2020} \\
+& Mia Hall &  & \\
+& Andrea Lail &  & \\
+\hline
+\multirow{3}{*}{4} & Dahlia Berwise & \multirow{3}{*}{Chapter 9} & \multirow{3}{*}{Friday, February 21, 2020} \\
+& Mike McCarthy &  &  \\
+& Dottie Jones &   & \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\subsubsection{Individual Data Analysis Lab Assignments}
+
+Individual lab assignments will feature a series of guided,
+application-based, statistical analysis prompts that you will complete
+using
+IBM\textsuperscript{\textregistered}~SPSS\textsuperscript{\textregistered}~Statistics.
+These assignments require you to apply what you learn within each of the
+course modules. Each lab assignment will include a detailed set of
+directions available on the course website. Additionally, you will be
+provided a skeleton-like lab report template for each of the lab
+assignments. More details on completing the lab assignments will be
+provided in class. Table 2 below contains the topic and due date for
+each lab assignment. \emph{Note}: These are individual assignments. All
+elements of the academic integrity policy will be upheld.
+
+\begin{table}[H]
+\begin{center}
+\caption{Individual Lab Assignment Dates}
+\label{labs}
+\vspace{3mm}
+\begin{tabular}{llr}
+\hline
+ & {\bf{Topic}} & {\bf{Due}}\\
+\hline
+1. & Exploring and Assessing Relationships Between Variables & 02-16-2020\\
+2. & Basic and Advanced Concepts in Predictive Modeling & 03-08-2020\\
+3. & Making Advanced Statistical Inferences Between and Within Groups & 04-05-2020\\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\subsubsection{Chapter 3 in a Nutshell}
+
+Your culminating assignment/project in EDAD 7324 will be comprised of an
+abridged, rough sketch version of your dissertation's methods section
+(chapter 3). In chapter 3, you detail, in a sense, the who, what, when,
+where, and hows of your particular experiment, study, or project. In the
+case of a quantitative dissertation, this involves, at minimum:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  details about your participants,
+\item
+  sampling procedures,
+\item
+  random assignment methods, (if applicable),
+\item
+  any materials used (e.g., instruments, software, questionnaires,
+  etc.),
+\item
+  definitions and identification of all variables (e.g., independent
+  vs.~dependent; predictor vs.~outcome; explanatory vs.~response, etc.),
+  and finally,
+\item
+  the statistical methods used in order to test hypotheses or make
+  inferences.
+\end{enumerate}
+
+I realize this assignment may feel a little daunting for some of you.
+Not to worry. Again, the more familiar you can be with your methodology
+now, the better off you will be both during your oral qualifying exam as
+well as your dissertation proposal presentation. This assignment will
+help prepare you for Saturday, April 18! \emph{A detailed submission
+template and grading rubric will be provided}.
+
+Chapter 3 in a Nutshell is due \textbf{Sunday, April 05, 2020.}
+
+\subsection{Grade Calculation}
+
+\subsubsection{Individual and Team Performance}
+
+Table 3 below lists all assignments, their point value, and proportion
+of weighted total. See Table 4 for final grade calculation and letter
+grade distribution.
+
+\begin{table}[H]
+\centering
+\caption{Individual Assignments and Point Values}
+\vspace{3mm}
+\label{points}
+\begin{tabular}{lllrlrr}
+\hline
+\bf{Assignment} & \bf{\em{n}} &  & \bf{Points} &  & \bf{Total} & \bf{Prop.} \\
+\hline
+Journal Article Critiques & 2 & $\times$ & 100 & = & 200 & .30\\
+Special Topics Team Presentations & 1 & $\times$ & 100 & = & 100 & .20\\
+Individual Lab Assignments & 3 & $\times$ & 10 & = & 30 & .20 \\
+Chapter 3 in a Nutshell & 1 & $\times$ & 100 & = & 100 & .25 \\
+Attendance & 5 & $\times$ & 1 & = & 5 & .05 \\
+\multicolumn{4}{r}{\bf{Individual Performance Total}} & {\bf{=}} & {\bf{435}} & {\bf{1.00}} \\
+\hline
+\end{tabular}
+\label{points}
+\end{table}
+
+\subsubsection{Final Grade Calculation}
+
+All course grades will be posted in the gradebook in myCourses. All
+point totals and proportional weights listed in Table 2 are reflected in
+myCourses. Thus, your current grade in myCourses should reflect your
+actual grade. Table 4 below describes the point range required to
+achieve a given letter grade.
+
+\begin{table}[H]
+\begin{center}
+\caption{Final Grade Point Range Requirements}
+\label{finalgrades}
+\vspace{3mm}
+\begin{tabular}{cccc}
+\hline
+\bf{Grade} & \bf{Point Range} & \bf{Percentage} & \bf{Grade Points}\\
+\hline
+A & 391.50 -- 435.00 & 90 -- 100 & 4.0\\ 
+B & 348.00 -- 232.00 & 80 -- 89  & 3.0\\ 
+C & 304.50 -- 347.00 & 70 -- 79  & 2.0\\ 
+D & 261.00 -- 303.50 & 60 -- 69  & 1.0\\ 
+F & 000.00 -- 260.00 & 00 -- 59  & 0.0\\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
+\section{Policies}
+
+\subsection{Attendance}
+
+Your regular attendance and participation in this course is expected. I
+will record and maintain attendance records for each student. Attendance
+is worth 5\% of your final grade. In other words, if you attend 050\% of
+the scheduled class meetings you will earn the complete 5\% attendance
+total. Any University- or otherwise-excused absence will not count
+toward this total. At the conclusion of the semester, the percentage of
+class meetings you attended will be multiplied by 0.05 to obtain your
+attendance grade.
+
+\subsection{Late Work}
+
+All assignments are considered late if submitted after the date and time
+specified in the syllabus and/or course website. This policy will be
+enforced in the event that assignment deadlines are revised during the
+course of the term. Assignments submitted late will result in a penalty
+of 20 percentage points per day.\textbackslash{}
+
+For example, if an assignment is due on March 22, 2020 and is submitted
+within 24 hours of the due date and time that assignment will result in
+an automatic deduction of 20 percentage points from the assignment raw
+score. In other words, if you submit an assignment worth 10 points on
+March 23, 2020, and the assignment was originally due March 22, 2020,
+and you score a 9.5/10, then your new score would be:
+
+\begin{equation}
+9.5 - (9.5)(0.20) \times 100 = 7.6.
+\end{equation}
+
+Assignments submitted more than five calendar days late will receive a
+grade of zero. To ensure fairness, this policy will be strictly
+enforced. Exceptons are made at the discretion of the instructor and may
+include, but are not limited to:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Death in the immediate family (parent, spouse, sibling, child)
+\item
+  Unforeseeable medical emergency affecting yourself, your spouse, or
+  your child (e.g., automobile accident, major sickness, et al.).
+\item
+  Participation in an official UMHB-sponsored event
+\end{enumerate}
+
+\emph{Note}: Routine medical appointments or clinical visits related to
+minor illnesses do not qualify as an unforeseeable medical emergency.
+Likewise, conflicts with a work schedule or trips not related to
+official UMHB events do not qualify for assignment absolution.
+
+\section{Disclaimer}
+
+Syllabus is subject to change at instructor's discretion.
+
+\newpage
+\begin{landscape}
+
+\section{Course Calendar}
+
+\begin{tabularx}{\linewidth}{XlXXr}
+\hline
+\textbf{Module} & \textbf{Week} & \textbf{Date} & \textbf{Topic} & \textbf{Reading} \\
+\hline
+A Gentle Introduction to Advanced Statistics in Research & 1 & Friday, January 10, 2020 & Central Tendency, Variability, and Descriptive Statistics & Ch. 03 \\
+ &  &  & Z-Scores and the Area Under the Normal Curve & Ch. 04 \\
+ &  &  & Statistical Significance, Confidence Intervals, and Effect Size & Ch. 05 \\
+ &  &  &  &  \\
+Exploring and Assessing Relationships Between Variables & 2 & Friday, January 31, 2020 & Bivariate Correlation & Ch. 06 \\
+ &  &  & Bivariate Regression & Ch. 07 \\
+ &  &  & Partial Correlation and Statistical Control & Ch. 08 \\
+ &  &  &  &  \\
+Basic and Advanced Concepts in Predictive Modeling & 3 & Friday, February 21, 2020 & Multiple Regression I: Basic Concepts & Ch. 09 \\
+ &  &  & Multiple Regression II: Advanced Concepts & Ch. 10 \\
+ &  &  &  &  \\
+Making Advanced Statistical Inferences Between and Within Groups & 4 & Friday, March 20, 2020 & Analyses of Variance (ANOVA) and Multivariate Analyses of Variance (MANOVA) & Ch. 13 \\
+ &  &  & Analyses of Covariance (ANCOVA) & Ch. 14 \\
+ &  &  &  &  \\
+--- & 5 & Saturday, April 18, 2020 & Oral Qualifying Exam & --- \\
+\hline
+\end{tabularx}
+
+\end{landscape}
+
+\newpage
+\section{Calendar of Due Dates}
+
+\begin{tabularx}{\linewidth}{p{4cm}Xr}
+\hline
+\textbf{Month} & \textbf{Date} & \textbf{Due} \\
+\hline
+\multirow{3}{*}{January} & Friday, January 31, 2020 & Team 1 Presentation \\
+& Friday, January 31, 2020 & Team 2 Presentation \\
+& Friday, January 31, 2020 & Team 3 Presentation \\
+\hline
+&  &  \\
+
+\multirow{3}{*}{February} & Sunday, February 09, 2020 & Article Critique \#1 \\
+& Sunday, February 16, 2020 & Lab 01 \\
+& Friday, February 21, 2020 & Team 4 Presentation \\
+\hline
+&  &  \\
+
+\multirow{2}{*}{March} & Sunday, March 08, 2020 & Lab 02 \\
+& Sunday March 29, 2020 & Article Critique \#2 \\
+\hline
+&  &  \\
+
+\multirow{2}{*}{April} & Sunday, April 05, 2020 & Lab 03 \\
+& Sunday, April 05, 2020 & Chapter 3 in a Nutshell \\
+\hline
+\end{tabularx}
+
+\end{document}

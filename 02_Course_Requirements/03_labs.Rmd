@@ -1,0 +1,18 @@
+Individual lab assignments will feature a series of guided, application-based, statistical analysis prompts that you will complete using IBM\textsuperscript{\textregistered}\ SPSS\textsuperscript{\textregistered}\ Statistics. These assignments require you to apply what you learn within each of the course modules. Each lab assignment will include a detailed set of directions available on the course website. Additionally, you will be provided a skeleton-like lab report template for each of the lab assignments. More details on completing the lab assignments will be provided in class. Table 2 below contains the topic and due date for each lab assignment. *Note*: These are individual assignments. All elements of the academic integrity policy will be upheld.
+
+\begin{table}[H]
+\begin{center}
+\caption{Individual Lab Assignment Dates}
+\label{labs}
+\vspace{3mm}
+\begin{tabular}{llr}
+\hline
+ & {\bf{Topic}} & {\bf{Due}}\\
+\hline
+1. & Exploring and Assessing Relationships Between Variables & 02-16-2020\\
+2. & Basic and Advanced Concepts in Predictive Modeling & 03-08-2020\\
+3. & Making Advanced Statistical Inferences Between and Within Groups & 04-05-2020\\
+\hline
+\end{tabular}
+\end{center}
+\end{table}

@@ -1,0 +1,30 @@
+This assignment consists of pairs of students presenting one or more special topics from a section(s) of a single chapter from the textbook. Teams should prepare a thorough lecture with accompanying slides, handouts, etc. You should use no fewer than three additional academic resources, not counting the textbook, to supplement your presentation. Lectures should be organized, rigorous, and comprehensive. You should assume the burden of responsibility for providing your peers everything you can in order to ensure they have as complete an understanding about your assigned topic(s) as you and your partner. They will do the same. *A detailed submission template and grading rubric will be provided*.
+
+Team numbers and student pairs were generated using a random sampling permutation method. Based on the team number, chapter assignments and dates were implemented by the instructor.
+
+\begin{table}[H]
+\begin{center}
+\caption{Special Topics Team Presentation Dates}
+\vspace{3mm}
+\begin{tabular}{llll}
+\hline
+\textbf{Team} & \textbf{Students} & \textbf{Topics} & \textbf{Presentation Date} \\
+\hline
+\multirow{2}{*}{1} & Wendy Gamble & \multirow{2}{*}{Chapter 6} & \multirow{2}{*}{Friday, January 31, 2020} \\
+ & Carmen Lewis &  &  \\
+\hline
+\multirow{3}{*}{2} & John Bate & \multirow{3}{*}{Chapter 7} & \multirow{3}{*}{Friday, January 31, 2020} \\
+& Autumn Leal-Shopp &  &  \\
+& Kemi Okafor &  &  \\
+\hline
+\multirow{3}{*}{3} & Lyndsae Benton & \multirow{3}{*}{Chapter 8} & \multirow{3}{*}{Friday, January 31, 2020} \\
+& Mia Hall &  & \\
+& Andrea Lail &  & \\
+\hline
+\multirow{3}{*}{4} & Dahlia Berwise & \multirow{3}{*}{Chapter 9} & \multirow{3}{*}{Friday, February 21, 2020} \\
+& Mike McCarthy &  &  \\
+& Dottie Jones &   & \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}

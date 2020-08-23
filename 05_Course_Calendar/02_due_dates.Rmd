@@ -1,0 +1,28 @@
+\newpage
+\section{Calendar of Due Dates}
+
+\begin{tabularx}{\linewidth}{p{4cm}Xr}
+\hline
+\textbf{Month} & \textbf{Date} & \textbf{Due} \\
+\hline
+\multirow{3}{*}{January} & Friday, January 31, 2020 & Team 1 Presentation \\
+& Friday, January 31, 2020 & Team 2 Presentation \\
+& Friday, January 31, 2020 & Team 3 Presentation \\
+\hline
+&  &  \\
+
+\multirow{3}{*}{February} & Sunday, February 09, 2020 & Article Critique \#1 \\
+& Sunday, February 16, 2020 & Lab 01 \\
+& Friday, February 21, 2020 & Team 4 Presentation \\
+\hline
+&  &  \\
+
+\multirow{2}{*}{March} & Sunday, March 08, 2020 & Lab 02 \\
+& Sunday March 29, 2020 & Article Critique \#2 \\
+\hline
+&  &  \\
+
+\multirow{2}{*}{April} & Sunday, April 05, 2020 & Lab 03 \\
+& Sunday, April 05, 2020 & Chapter 3 in a Nutshell \\
+\hline
+\end{tabularx}

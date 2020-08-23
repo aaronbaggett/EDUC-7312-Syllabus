@@ -1,0 +1,5 @@
+\begin{figure}
+\begin{center}
+\includegraphics{/Users/AB/Dropbox/UMHB/COE/Ideas/Syllabus/05_Course_Calendar/cal_cut.pdf}
+\end{center}
+\end{figure}
