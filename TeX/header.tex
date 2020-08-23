@@ -1,0 +1,39 @@
+\usepackage{fancyhdr, lastpage}
+\pagestyle{fancy}
+% \usepackage{graphicx}
+% \graphicspath{{figs/}}
+\usepackage{enumitem}
+\usepackage{setspace}
+\usepackage{verbatim}
+\usepackage{hanging}
+\usepackage{multirow}
+\usepackage{float}
+\usepackage{lscape}
+\usepackage{tabulary}
+\usepackage{tabularx}
+\usepackage{tcolorbox}
+\usepackage{array}
+\newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}}
+
+\usepackage{hyperref}
+\hypersetup{  
+   colorlinks,   
+   citecolor=blue,
+   linkcolor=blue,
+   urlcolor=blue,
+}
+
+\usepackage{color, colortbl}
+\definecolor{Gray}{gray}{0.9}
+
+\renewcommand{\headrulewidth}{0pt}
+
+\chead{}
+\rhead[p. \thepage\ of\ \pageref*{LastPage}]{p. \thepage\ of\ \pageref*{LastPage}}
+\lhead{}
+
+\fancyfoot{}
+\fancyfoot[L]{\textcolor{gray}{EDUC 7312-01}}
+\fancyfoot[C]{\textcolor{gray}{Fall 2020}}
+\fancyfoot[R]{\textcolor{gray}{Aaron R. Baggett, Ph.D.}}
+
