@@ -266,6 +266,8 @@ TSWLatexianTemp*
 # expex forward references with \gathertags
 *-tags.tex
 
+# .DS_Store
+.DS_Store
 # standalone packages
 *.sta
 
