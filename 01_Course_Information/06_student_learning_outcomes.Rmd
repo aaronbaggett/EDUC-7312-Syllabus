@@ -2,9 +2,11 @@ Upon completion of all course modules, you should be able to:
 
 **1. Module 1: Introduction to Data**
 
-  1. Define the standard normal distribution and compute the standard normal transformation.
-  2. Understand the relationship between scores in a normal distribution and their respective probability value.
-  3. Understand and synthesize the concepts of statistical significance and effect size.
+  1. Identify variables as numerical and categorical and further classify based on the nature of the 
+  2. Define associated variables as variables that show some relationship with one another. Further categorize this relationship as positive or negative association, when possible.
+  <!-- 3. Identify the explanatory variable in a pair of variables as the variable suspected of affecting the other. However, note that labeling variables as explanatory and response does not guarantee that the relationship between the two is actually causal, even if there is an association identified between the two variables. -->
+  4. When describing the distribution of a numerical variable, mention its shape, center, and spread, as well as any unusual observations.
+  5. Identify the shape of a distribution as symmetric, right skewed, or left skewed, and unimodal, bimodal, multimodal, or uniform.
 
 **2. Module 2: Foundations for Statistical Inference**
 
@@ -24,3 +26,30 @@ Upon completion of all course modules, you should be able to:
   2. Identify statistical assumptions for both one-way and factorial between- and within-groups designs.
   2. Compute and interpret results of main effects, interaction effects, and post-hoc tests in both one-way and factorial between- and within-groups designs using SPSS.
   3. Summarize visually and verbally the results of both one-way and factorial between- and within-groups designs.
+  
+  \begin{enumerate}
+\item {\bf{Gain factual knowledge such as important terminology, classifications, methods, and trends by:}}
+
+\begin{enumerate}[label=\Alph*.]
+\itemsep2pt\parskip0pt\parsep0pt
+\item Participating in lectures and in-class presentations;
+\item Distinguishing between the four basic scales of measurement;
+\item Distinguishing between null and alternative hypotheses;
+\item Distinguishing between Type I and Type II Errors;
+\item Understanding characteristics of population and sample distributions;
+\item Understanding essential characteristics of descriptive statistics and procedures used for summarizing data;
+\item Understanding probability and the foundations of inferential statistics;
+\item Making inferences about the variability between- and within-samples according to the general linear model;
+\item Distinguishing between statistical and practical significance.
+\end{enumerate}
+
+\item {\bf{Learn to apply course material to improve decision-making, problem solving, and critical thinking skills related to experimental design and statistical analysis by:}}
+
+\begin{enumerate}[label=\Alph*.]
+\itemsep2pt\parskip0pt\parsep0pt
+\item[A.] Completing formal assessments involving knowledge-level, conceptual, and applied material;
+\item[B.] Completing a series of individual data evaluation and analysis projects involving performing, analyzing, and interpreting statistical output;
+\item[C.] Communicating research findings according to the rules of APA Style (in both written and oral form);
+\item[D.] Considering the ethical issues associated with research involving human and nonhuman participants.
+\end{enumerate}
+\end{enumerate}
