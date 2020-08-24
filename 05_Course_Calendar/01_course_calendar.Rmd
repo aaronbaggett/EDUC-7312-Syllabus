@@ -19,7 +19,7 @@ Statistical Inference for Numerical and Categorical Data & 3 & Saturday, October
 Simple and Multiple Regression & 4 & Saturday, November 14, 2020 & Ch. 06 \\
  &  &  &  \\
  
-Simple and Multiple Regression & 5 & Saturday, December 05, 2020 & --- \\
+Written Qual. Exams & 5 & Saturday, December 05, 2020 & -- \\
  &  &  &  \\
 \hline
 \end{tabularx}

@@ -8,30 +8,42 @@ Team numbers and student pairs were generated using a random sampling permutatio
 \begin{center}
 \caption{Special Topics Team Presentation Dates}
 \vspace{3mm}
-\begin{tabular}{llll}
+\begin{tabular}{clll}
 \hline
 \textbf{Team} & \textbf{Students} & \textbf{Topics} & \textbf{Presentation Date} \\
 \hline
 
-\multirow{3}{*}{1} & Stephanie Bermudez & \multirow{3}{*}{Ch. 4} & \multirow{3}{*}{Saturday, October 03, 2020} \\
-& Gerard Cortez &  &  \\
-& Dena Sempe &  &  \\
-\arrayrulecolor{gray}\hline
+\multirow{2}{*}{1.} & Darla Forsberg & \multirow{2}{*}{Ch. 1} & \multirow{2}{*}{Saturday, September 12, 2020} \\
+& Jeanette Jacobs &  &  \\
+\hline
 
-\multirow{3}{*}{2} & Kayla Abshire & \multirow{3}{*}{Ch. 5} & \multirow{3}{*}{Saturday, October 24, 2020} \\
-& Deborah Gilbertson &  &  \\
-& Erika Gutierrez &  &  \\
-\arrayrulecolor{gray}\hline
+\multirow{2}{*}{2.} & Katy Trotty & \multirow{2}{*}{Ch. 2} & \multirow{2}{*}{Saturday, September 12, 2020} \\
+& Julia Venghaus &  &  \\
+\hline
 
-\multirow{3}{*}{3} & Cassandra Chavira & \multirow{3}{*}{Ch. 6} & \multirow{3}{*}{Saturday, November 14, 2020} \\
-& Charlotte Conner &  & \\
-& Joannie Caraballo-Lopez &  & \\
-\arrayrulecolor{gray}\hline
+\multirow{2}{*}{3.} & Athina Katseyeanis & \multirow{2}{*}{Ch. 4} & \multirow{2}{*}{Saturday, October 03, 2020} \\
+& Douglas Schroder &  &  \\
+\hline
 
-\multirow{3}{*}{4} & Terre Evans & \multirow{3}{*}{Ch. 7} & \multirow{3}{*}{Saturday, December 05, 2020} \\
-& Erica Hummel &  &  \\
-& Tatiana Czarnecki &   & \\
-\arrayrulecolor{gray}\hline
+\multirow{2}{*}{4.} & Deena Cornblum & \multirow{2}{*}{Ch. 5} & \multirow{2}{*}{Saturday, October 03, 2020} \\
+& Eugenie Snaith &  &  \\
+\hline
+
+\multirow{2}{*}{5.} & Ashley Bernard & \multirow{2}{*}{Ch. 6} & \multirow{2}{*}{Saturday, October 24, 2020} \\
+& Devita Jo Joy &  &  \\
+\hline
+
+\multirow{2}{*}{6.} & Gara Alexander & \multirow{2}{*}{Ch. 6} & \multirow{2}{*}{Saturday, October 24, 2020} \\
+& Allison Younger &  &  \\
+\hline
+
+\multirow{2}{*}{7.} & Heather Metzgar & \multirow{2}{*}{Ch. 7} & \multirow{2}{*}{Saturday, November 14, 2020} \\
+& Danielle Whitehead &  &  \\
+\hline
+
+\multirow{2}{*}{8.} & Damon Adams & \multirow{2}{*}{Ch. 7} & \multirow{2}{*}{Saturday, November 14, 2020} \\
+& Amber Thompson &  &  \\
+\hline
 
 \end{tabular}
 \end{center}
