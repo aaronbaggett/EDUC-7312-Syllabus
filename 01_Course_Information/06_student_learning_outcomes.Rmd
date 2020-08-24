@@ -1,24 +1,24 @@
 Upon completion of all course modules, you should be able to:
 
-**1. Module 1: A Gentle Introduction to Advanced Statistics in Research**
+**1. Module 1: Introduction to Data**
 
   1. Define the standard normal distribution and compute the standard normal transformation.
   2. Understand the relationship between scores in a normal distribution and their respective probability value.
   3. Understand and synthesize the concepts of statistical significance and effect size.
 
-**2. Module 2: Exploring and Assessing Relationships Between Variables**
+**2. Module 2: Foundations for Statistical Inference**
 
   1. Identify the direction and strength of both linear and non-linear correlations.
   2. Compute and interpret linear and non-linear correlation coefficients using SPSS.
   3. Summarize visually and verbally the results of linear and non-linear correlation coefficients.
 
-**3. Module 3: Basic and Advanced Concepts in Predictive Modeling**
+**3. Module 3: Statistical Inference for Numerical and Categorical Data**
 
   1. Identify occasions when a predictive model is preferred, over others, in educational and social science research.
   2. Compute and interpret the slope, intercept, and response variable(s) in both simple and multiple linear regression models using SPSS.
   3. Summarize visually and verbally the results of both simple and multiple linear regression models.
 
-**4. Module 4: Making Advanced Statistical Inferences Between and Within Groups**
+**4. Module 4: Simple and Multiple Regression**
 
   1. Identify occasions when either between- and within-groups designs are preferred, over others, in educational and social science research.
   2. Identify statistical assumptions for both one-way and factorial between- and within-groups designs.
