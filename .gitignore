@@ -267,10 +267,12 @@ TSWLatexianTemp*
 *-tags.tex
 
 # .DS_Store
-.DS_Store
+*.DS_Store
+
 # standalone packages
 *.sta
 
 # Makeindex log files
 *.lpz
 .Rproj.user
+.Rhistory
