@@ -120,7 +120,7 @@ mainfont: Times New Roman
 
 <!-- 5. COURSE CALENDAR -->
 
-```{r calendar, child = "05_Course_Calendar/01_course_calendar copy.Rmd"}
+```{r calendar, child = "05_Course_Calendar/01_course_calendar.Rmd"}
 ```
 
 <!-- 6. CALENDAR OF DUE DATES-->

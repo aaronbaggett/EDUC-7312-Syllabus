@@ -10,46 +10,30 @@ Upon completion of all course modules, you should be able to:
 
 **2. Module 2: Foundations for Statistical Inference**
 
-  1. Identify the direction and strength of both linear and non-linear correlations.
-  2. Compute and interpret linear and non-linear correlation coefficients using SPSS.
-  3. Summarize visually and verbally the results of linear and non-linear correlation coefficients.
+  1. Define the standardized (Z) score of a data point as the number of standard deviations it is away from the mean:
+  $$Z = \frac{x-\mu}{\sigma}$$
+  2. Use the $Z$-score to determine the corresponding percentile score of a data point as well as to assess whether or not a particular observation is considered to be statistically unusual ($\pm$ 2 standard deviations away from the mean)
+  3. Assess whether or not a distribution is nearly normal using the 68-95-99.7% rule or graphical methods such as a normal probability plot.
+  4. Define sample statistic as a point estimate for a population parameter, for example, the sample proportion is used to estimate the population proportion, and note that point estimate and sample statistic are synonymous.
+  5. Recognize that point estimates (such as the sample proportion) will vary from one sample to another, and define this variability as sampling variation.
 
 **3. Module 3: Statistical Inference for Numerical and Categorical Data**
 
-  1. Identify occasions when a predictive model is preferred, over others, in educational and social science research.
-  2. Compute and interpret the slope, intercept, and response variable(s) in both simple and multiple linear regression models using SPSS.
-  3. Summarize visually and verbally the results of both simple and multiple linear regression models.
+  1. Define population proportion $p$ (parameter) and sample proportion $\hat{p}$ (point estimate).
+  2. Calculate the sampling variability of the proportion, the standard error, as:
+$$ SE= \sqrt{\frac{p(1-p)}{n}}, $$ where $p$ is the population proportion.
+  - Note that when the population proprtion, $p$, is not known (amlost always), this can be estimated using the sample proportion, $SE = \sqrt{\frac{\hat{p}(1-\hat{p})}{n}}$.
+
+  3. Use the $t$-distribution for inference on a single mean, difference of paired (dependent) means, and difference of independent means.
+  4. Explain why the $t$-distribution helps make up for the additional variability introduced by using s (sample standard deviation) in calculation of the standard error, in place of $\sigma$ (population standard deviation).
+  5. Use a $t$-statistic, with degrees of freedom $df$ = $n$ − 1 for inference for a population mean
+
 
 **4. Module 4: Simple and Multiple Regression**
 
-  1. Identify occasions when either between- and within-groups designs are preferred, over others, in educational and social science research.
-  2. Identify statistical assumptions for both one-way and factorial between- and within-groups designs.
-  2. Compute and interpret results of main effects, interaction effects, and post-hoc tests in both one-way and factorial between- and within-groups designs using SPSS.
-  3. Summarize visually and verbally the results of both one-way and factorial between- and within-groups designs.
-  
-  \begin{enumerate}
-\item {\bf{Gain factual knowledge such as important terminology, classifications, methods, and trends by:}}
+  1. Define the explanatory variable as the independent variable (predictor), and the response variable as the dependent variable (predicted).
+  2. Produce scatterplots of response variables ($y$) against explanatory variables ($x$).
+  3. Fit a simple linear regresion model using statistical software.
+  4. When describing the association between two numerical variables, evaluate direction and strength.
 
-\begin{enumerate}[label=\Alph*.]
-\itemsep2pt\parskip0pt\parsep0pt
-\item Participating in lectures and in-class presentations;
-\item Distinguishing between the four basic scales of measurement;
-\item Distinguishing between null and alternative hypotheses;
-\item Distinguishing between Type I and Type II Errors;
-\item Understanding characteristics of population and sample distributions;
-\item Understanding essential characteristics of descriptive statistics and procedures used for summarizing data;
-\item Understanding probability and the foundations of inferential statistics;
-\item Making inferences about the variability between- and within-samples according to the general linear model;
-\item Distinguishing between statistical and practical significance.
-\end{enumerate}
 
-\item {\bf{Learn to apply course material to improve decision-making, problem solving, and critical thinking skills related to experimental design and statistical analysis by:}}
-
-\begin{enumerate}[label=\Alph*.]
-\itemsep2pt\parskip0pt\parsep0pt
-\item[A.] Completing formal assessments involving knowledge-level, conceptual, and applied material;
-\item[B.] Completing a series of individual data evaluation and analysis projects involving performing, analyzing, and interpreting statistical output;
-\item[C.] Communicating research findings according to the rules of APA Style (in both written and oral form);
-\item[D.] Considering the ethical issues associated with research involving human and nonhuman participants.
-\end{enumerate}
-\end{enumerate}
