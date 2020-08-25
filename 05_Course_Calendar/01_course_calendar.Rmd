@@ -1,25 +1,5 @@
-\newpage
-
-\section{Course Calendar}
-
-\begin{tabularx}{\linewidth}{XcXr}
-\hline
-\textbf{Module} & \textbf{Week} & \textbf{Date} & \textbf{Reading} \\
-\hline
-
-Introduction to Data & 1 & Saturday, September 12, 2020 & Chs. 01--02 \\
- &  &  &  \\
- 
-Foundations for Statistical Inference & 2 & Saturday, October 03, 2020 & Chs. 03--04 \\
- &  &  & \\
- 
-Statistical Inference for Numerical and Categorical Data & 3 & Saturday, October 24, 2020 & Ch. 05 \\
- &  &  & \\
- 
-Simple and Multiple Regression & 4 & Saturday, November 14, 2020 & Ch. 06 \\
- &  &  &  \\
- 
-Written Qual. Exams & 5 & Saturday, December 05, 2020 & -- \\
- &  &  &  \\
-\hline
-\end{tabularx}
+\begin{figure}
+\begin{center}
+\includegraphics{/Users/AB/Dropbox/UMHB/COE/Ideas/Syllabus/05_Course_Calendar/cal_cut.pdf}
+\end{center}
+\end{figure}
