@@ -10,11 +10,11 @@ Table 3 below lists all assignments, their point value, and proportion of weight
 \hline
 \bf{Assignment} & \bf{\em{n}} &  & \bf{Points} &  & \bf{Total} & \bf{Prop.} \\
 \hline
-Journal Article Critiques & 2 & $\times$ & 100 & = & 200 & .30\\
+Journal Article Critiques & 2 & $\times$ & 100 & = & 200 & .50\\
 Special Topics Team Presentations & 1 & $\times$ & 100 & = & 100 & .20\\
-Individual Lab Assignments & 3 & $\times$ & 10 & = & 30 & .20 \\
+Individual Lab Assignments & 5 & $\times$ & 10 & = & 50 & .30 \\
 Attendance & 5 & $\times$ & 1 & = & 5 & .05 \\
-\multicolumn{4}{r}{\bf{Individual Performance Total}} & {\bf{=}} & {\bf{435}} & {\bf{1.00}} \\
+\multicolumn{4}{r}{\bf{Individual Performance Total}} & {\bf{=}} & {\bf{350}} & {\bf{1.00}} \\
 \hline
 \end{tabular}
 \label{points}
@@ -32,11 +32,11 @@ All course grades will be posted in the gradebook in myCourses. All point totals
 \hline
 \bf{Grade} & \bf{Point Range} & \bf{Percentage} & \bf{Grade Points}\\
 \hline
-A & 391.50 -- 435.00 & 90 -- 100 & 4.0\\ 
-B & 348.00 -- 232.00 & 80 -- 89  & 3.0\\ 
-C & 304.50 -- 347.00 & 70 -- 79  & 2.0\\ 
-D & 261.00 -- 303.50 & 60 -- 69  & 1.0\\ 
-F & 000.00 -- 260.00 & 00 -- 59  & 0.0\\
+A & 313.00 -- 350.00 & 90 -- 100 & 4.0\\ 
+B & 278.00 -- 312.00 & 80 -- 89  & 3.0\\ 
+C & 243.00 -- 277.00 & 70 -- 79  & 2.0\\ 
+D & 208.00 -- 242.00 & 60 -- 69  & 1.0\\ 
+F & 000.00 -- 207.00 & 00 -- 59  & 0.0\\
 \hline
 \end{tabular}
 \end{center}
