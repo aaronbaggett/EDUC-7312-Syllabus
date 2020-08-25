@@ -128,3 +128,14 @@ mainfont: Times New Roman
 ```{r calendar, child = "05_Course_Calendar/02_due_dates.Rmd"}
 ```
 
+
+<!-- 7. COVID STUFF -->
+\newpage
+\section{CruFlex and Other Pandemic-Related Details}
+```{r cruflex, child = "07_COVID/01_covid.Rmd"}
+```
+
+<!-- CRU PLEDGE -->
+```{r cruflex, child = "07_COVID/02_crupledge.Rmd"}
+```
+
