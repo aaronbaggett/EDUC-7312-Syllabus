@@ -8,7 +8,7 @@ output:
     keep_tex: true
     latex_engine: xelatex
 monofont: Lucida Console
-mainfont: FlamaLight
+mainfont: Times New Roman
 #fontsize: 11pt
 ---
 
