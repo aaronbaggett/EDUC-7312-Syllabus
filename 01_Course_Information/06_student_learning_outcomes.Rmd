@@ -2,7 +2,7 @@ Upon completion of all course modules, you should be able to:
 
 **1. Module 1: Introduction to Data**
 
-  1. Identify variables as numerical and categorical and further classify based its nature.
+  1. Identify variables as numerical and categorical and further classify based on the nature of the 
   2. Define associated variables as variables that show some relationship with one another. Further categorize this relationship as positive or negative association, when possible.
   <!-- 3. Identify the explanatory variable in a pair of variables as the variable suspected of affecting the other. However, note that labeling variables as explanatory and response does not guarantee that the relationship between the two is actually causal, even if there is an association identified between the two variables. -->
   4. When describing the distribution of a numerical variable, mention its shape, center, and spread, as well as any unusual observations.
