@@ -8,6 +8,8 @@ Upon completion of all course modules, you should be able to:
   4. When describing the distribution of a numerical variable, mention its shape, center, and spread, as well as any unusual observations.
   5. Identify the shape of a distribution as symmetric, right skewed, or left skewed, and unimodal, bimodal, multimodal, or uniform.
 
+\vspace{.25cm}
+
 **2. Module 2: Foundations for Statistical Inference**
 
   1. Define the standardized (Z) score of a data point as the number of standard deviations it is away from the mean:
@@ -16,6 +18,8 @@ Upon completion of all course modules, you should be able to:
   3. Assess whether or not a distribution is nearly normal using the 68-95-99.7% rule or graphical methods such as a normal probability plot.
   4. Define sample statistic as a point estimate for a population parameter, for example, the sample proportion is used to estimate the population proportion, and note that point estimate and sample statistic are synonymous.
   5. Recognize that point estimates (such as the sample proportion) will vary from one sample to another, and define this variability as sampling variation.
+  
+\vspace{.25cm}
 
 **3. Module 3: Statistical Inference for Numerical and Categorical Data**
 
@@ -28,6 +32,7 @@ $$ SE= \sqrt{\frac{p(1-p)}{n}}, $$ where $p$ is the population proportion.
   4. Explain why the $t$-distribution helps make up for the additional variability introduced by using s (sample standard deviation) in calculation of the standard error, in place of $\sigma$ (population standard deviation).
   5. Use a $t$-statistic, with degrees of freedom $df$ = $n$ − 1 for inference for a population mean
 
+\vspace{.25cm}
 
 **4. Module 4: Simple and Multiple Regression**
 
@@ -35,5 +40,3 @@ $$ SE= \sqrt{\frac{p(1-p)}{n}}, $$ where $p$ is the population proportion.
   2. Produce scatterplots of response variables ($y$) against explanatory variables ($x$).
   3. Fit a simple linear regresion model using statistical software.
   4. When describing the association between two numerical variables, evaluate direction and strength.
-
-
