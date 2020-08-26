@@ -13,7 +13,6 @@ Table 3 below lists all assignments, their point value, and proportion of weight
 Journal Article Critiques & 2 & $\times$ & 100 & = & 200 & .50\\
 Special Topics Team Presentations & 1 & $\times$ & 100 & = & 100 & .20\\
 Individual Lab Assignments & 5 & $\times$ & 10 & = & 50 & .30 \\
-Attendance & 5 & $\times$ & 1 & = & 5 & .05 \\
 \multicolumn{4}{r}{\bf{Individual Performance Total}} & {\bf{=}} & {\bf{350}} & {\bf{1.00}} \\
 \hline
 \end{tabular}

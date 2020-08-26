@@ -101,9 +101,9 @@ mainfont: Times New Roman
 
 \section{Policies}
 
-\subsection{Attendance}
-```{r att, child = "03_Policies/01_attendance.Rmd"}
-```
+<!-- \subsection{Attendance} -->
+<!-- ```{r att, child = "03_Policies/01_attendance.Rmd"} -->
+<!-- ``` -->
 
 \subsection{Late Work}
 ```{r late_work, child = "03_Policies/02_late_work.Rmd"}
