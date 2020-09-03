@@ -4,22 +4,22 @@
 
 \begin{tabularx}{\linewidth}{XcXr}
 \hline
-\textbf{Module} & \textbf{Week} & \textbf{Date} & \textbf{Reading} \\
+\textbf{Module} & \textbf{Cohort} & \textbf{Date} & \textbf{Reading} \\
 \hline
 
-Introduction to Data & 1 & Saturday, September 12, 2020 & Chs. 01--02 \\
+Introduction to Data and the Normal Distribution & H.E./Nurs. & Saturday, September 12, 2020 & Chs. 01--04 \\
  &  &  &  \\
  
-Foundations for Statistical Inference & 2 & Saturday, October 03, 2020 & Chs. 04-05 \\
+Foundations for Statistical Inference with Numerical and Categorical Data & H.E./Nurs. & Saturday, October 03, 2020 & Chs. 05--07 \\
  &  &  & \\
  
-Statistical Inference for Numerical and Categorical Data & 3 & Saturday, October 24, 2020 & Ch. 06-07 \\
+Introduction to Data and the Normal Distribution & P-12 & Saturday, October 24, 2020 & Chs. 01--04 \\
  &  &  & \\
  
-Simple and Multiple Regression & 4 & Saturday, November 14, 2020 & Ch. 08 \\
+Foundations for Statistical Inference with Numerical and Categorical Data & P-12 & Saturday, November 14, 2020 & Chs. 05--07 \\
  &  &  &  \\
  
-Written Qual. Exams & 5 & Saturday, December 05, 2020 & -- \\
+Written Qual. Exams & ALL & Saturday, December 05, 2020 & -- \\
  &  &  &  \\
 \hline
 \end{tabularx}

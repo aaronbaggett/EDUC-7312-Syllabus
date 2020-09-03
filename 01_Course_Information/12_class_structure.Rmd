@@ -2,9 +2,7 @@ All assignments and other coursework are completed individually. However, during
 
 \subsubsection{Learning Modules}
 
-EDAD 7312 is divided into four (4) learning modules:
+EDAD 7312 is divided into two (2) learning modules:
 
-1. Introduction to Data
-2. Foundations for Statistical Inference
-3. Statistical Inference for Numerical and Categorical Data
-4. Simple and Multiple Regression
+1. Introduction to Data and the Normal Distribution
+2. Foundations for Statistical Inference with Numerical and Categorical Data

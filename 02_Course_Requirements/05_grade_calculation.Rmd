@@ -1,5 +1,5 @@
 \subsubsection{Individual and Team Performance}
-Table 3 below lists all assignments, their point value, and proportion of weighted total. See Table 4 for final grade calculation and letter grade distribution.
+Table 3 below lists all assignments, their point value, and proportion of weighted total. See Table 2 for final grade calculation and letter grade distribution.
 
 \begin{table}[H]
 \centering
@@ -10,17 +10,18 @@ Table 3 below lists all assignments, their point value, and proportion of weight
 \hline
 \bf{Assignment} & \bf{\em{n}} &  & \bf{Points} &  & \bf{Total} & \bf{Prop.} \\
 \hline
-Journal Article Critiques & 2 & $\times$ & 100 & = & 200 & .50\\
-Special Topics Team Presentations & 1 & $\times$ & 100 & = & 100 & .20\\
-Individual Lab Assignments & 5 & $\times$ & 10 & = & 50 & .30 \\
-\multicolumn{4}{r}{\bf{Individual Performance Total}} & {\bf{=}} & {\bf{350}} & {\bf{1.00}} \\
+% Journal Article Critiques & 2 & $\times$ & 100 & = & 200 & .50\\
+% Special Topics Team Presentations & 1 & $\times$ & 100 & = & 100 & .20\\
+Individual Lab Assignments & 2 & $\times$ & 50 & = & 100 & .50 \\
+Culminating Assignment/Project & 1 & $\times$ & 100 & = & 100 & .50 \\
+\multicolumn{4}{r}{\bf{Individual Performance Total}} & {\bf{=}} & {\bf{200}} & {\bf{1.00}} \\
 \hline
 \end{tabular}
 \label{points}
 \end{table}
 
 \subsubsection{Final Grade Calculation}
-All course grades will be posted in the gradebook in myCourses. All point totals and proportional weights listed in Table 2 are reflected in myCourses. Thus, your current grade in myCourses should reflect your actual grade. Table 4 below describes the point range required to achieve a given letter grade.
+All course grades will be posted in the gradebook in myCourses. All point totals and proportional weights listed in Table 3 are reflected in myCourses. Thus, your current grade in myCourses should reflect your actual grade. Table 4 below describes the point range required to achieve a given letter grade.
 
 \begin{table}[H]
 \begin{center}
@@ -31,11 +32,11 @@ All course grades will be posted in the gradebook in myCourses. All point totals
 \hline
 \bf{Grade} & \bf{Point Range} & \bf{Percentage} & \bf{Grade Points}\\
 \hline
-A & 313.00 -- 350.00 & 90 -- 100 & 4.0\\ 
-B & 278.00 -- 312.00 & 80 -- 89  & 3.0\\ 
-C & 243.00 -- 277.00 & 70 -- 79  & 2.0\\ 
-D & 208.00 -- 242.00 & 60 -- 69  & 1.0\\ 
-F & 000.00 -- 207.00 & 00 -- 59  & 0.0\\
+A & 180.00 -- 200.00 & 90 -- 100 & 4.0\\ 
+B & 160.00 -- 178.00 & 80 -- 89  & 3.0\\ 
+C & 140.00 -- 158.00 & 70 -- 79  & 2.0\\ 
+D & 120.00 -- 138.00 & 60 -- 69  & 1.0\\ 
+F & 000.00 -- 118.00 & 00 -- 59  & 0.0\\
 \hline
 \end{tabular}
 \end{center}

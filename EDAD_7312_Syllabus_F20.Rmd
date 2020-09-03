@@ -74,15 +74,15 @@ mainfont: Times New Roman
 
 \section{Course Requirements}
 
-\subsection{Individual and Team Assignments}
+\subsection{Individual Assignments}
 
-\subsubsection{Journal Article Critique}
-```{r ass_a, child = "02_Course_Requirements/01_critiques.Rmd"}
-```
+<!-- \subsubsection{Journal Article Critique} -->
+<!-- ```{r ass_a, child = "02_Course_Requirements/01_critiques.Rmd"} -->
+<!-- ``` -->
 
-\subsubsection{Special Topics Team Presentation}
-```{r ass_b, child = "02_Course_Requirements/02_presentations.Rmd"}
-```
+<!-- \subsubsection{Special Topics Team Presentation} -->
+<!-- ```{r ass_b, child = "02_Course_Requirements/02_presentations.Rmd"} -->
+<!-- ``` -->
 
 \subsubsection{Individual Data Analysis Lab Assignments}
 ```{r ass_k, child = "02_Course_Requirements/03_labs.Rmd"}
@@ -91,6 +91,11 @@ mainfont: Times New Roman
 <!-- \subsubsection{Chapter 3 in a Nutshell} -->
 <!-- ```{r ass_k, child = "02_Course_Requirements/04_chapter_3.Rmd"} -->
 <!-- ``` -->
+
+<!-- \subsubsection{Chapter 1 in a Nutshell} -->
+\subsubsection{Culminating Assignment/Project}
+```{r ass_k, child = "02_Course_Requirements/04_chapter_3.Rmd"}
+```
 
 \subsection{Grade Calculation}
 ```{r grade_calc, child = "02_Course_Requirements/05_grade_calculation.Rmd"}
