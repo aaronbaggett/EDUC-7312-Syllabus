@@ -10,10 +10,10 @@ Table 3 below lists all assignments, their point value, and proportion of weight
 \hline
 \bf{Assignment} & \bf{\em{n}} &  & \bf{Points} &  & \bf{Total} & \bf{Prop.} \\
 \hline
-% Journal Article Critiques & 2 & $\times$ & 100 & = & 200 & .50\\
+Journal Article Critiques & 1 & $\times$ & 100 & = & 100 & .50\\
 % Special Topics Team Presentations & 1 & $\times$ & 100 & = & 100 & .20\\
 Individual Lab Assignments & 2 & $\times$ & 50 & = & 100 & .50 \\
-Culminating Assignment/Project & 1 & $\times$ & 100 & = & 100 & .50 \\
+% Culminating Assignment/Project & 1 & $\times$ & 100 & = & 100 & .50 \\
 \multicolumn{4}{r}{\bf{Individual Performance Total}} & {\bf{=}} & {\bf{200}} & {\bf{1.00}} \\
 \hline
 \end{tabular}

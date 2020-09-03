@@ -76,9 +76,9 @@ mainfont: Times New Roman
 
 \subsection{Individual Assignments}
 
-<!-- \subsubsection{Journal Article Critique} -->
-<!-- ```{r ass_a, child = "02_Course_Requirements/01_critiques.Rmd"} -->
-<!-- ``` -->
+\subsubsection{Journal Article Critique}
+```{r ass_a, child = "02_Course_Requirements/01_critiques.Rmd"}
+```
 
 <!-- \subsubsection{Special Topics Team Presentation} -->
 <!-- ```{r ass_b, child = "02_Course_Requirements/02_presentations.Rmd"} -->

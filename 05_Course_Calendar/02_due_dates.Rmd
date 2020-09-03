@@ -48,23 +48,20 @@
 \arrayrulecolor{gray}\hline
 
 &  &  & \\
-\multirow{1}{*}{October} & Sunday, October 11, 2020 & Lab \#2 & H.E./Nurs. \\
+\multirow{2}{*}{October} & Sunday, October 11, 2020 & Lab \#2 & \multirow{2}{*}{H.E./Nurs.} \\
+& Sunday, October 25, 2020 & Journal Article Critque &  \\
 &  &  & \\
 \arrayrulecolor{gray}\hline
 
 &  &  & \\
-\multirow{2}{*}{November} & Sunday, November 01, 2020 & Lab \#1 & \multirow{2}{*}{P-12} \\
-& Sunday, November 22, 2020 & Labw \#2 \\
+\multirow{3}{*}{November} & Sunday, November 01, 2020 & Lab \#1 & \multirow{3}{*}{P-12} \\
+& Sunday, November 22, 2020 & Lab \#2 \\
+& Sunday, November 29, 2020 & Journal Article Critique \\
 &  &  & \\
 \arrayrulecolor{gray}\hline
 
-% &  &  & \\
-% \multirow{1}{*}{December} & Friday, December 04, 2020 & Chapter 1 in a Nutshell & P-12\\
-% &  &  & \\
-% \arrayrulecolor{gray}\hline
-
 &  &  & \\
-\multirow{1}{*}{December} & Sat., Dec. 05, 2020 & Written Qualifying Exams & ALL\\
+\multirow{1}{*}{December} & Saturday, December 05, 2020 & Written Qualifying Exams & ALL\\
 &  &  & \\
 \arrayrulecolor{gray}\hline
 
