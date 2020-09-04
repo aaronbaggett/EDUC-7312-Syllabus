@@ -27,15 +27,11 @@ Individual lab assignments will feature a series of guided, application-based, s
 \vspace{3mm}
 \begin{tabular}{llr}
 \hline
- & {\bf{Topic}} & {\bf{Due}}\\
+{\bf{Cohort}} & {\bf{Topic}} & {\bf{Due}}\\
 \hline
-\textbf{Cohort: Higher Education/Nursing} & \\
-1. & Introduction to Data and the Normal Distribution & 09-27-2020\\
-2. & Inference for Numerical and Categorical Data & 10-11-2020\\
+\multirow{1}{*}{H.Ed./Nurs.} & Inference for Numerical and Categorical Data & 10-19-2020\\
 & & \\
-\textbf{Cohort: P-12} & \\
-1. & Introduction to Data and the Normal Distribution & 11-01-2020\\
-2. & Inference for Numerical and Categorical Data & 11-22-2020\\
+\multirow{1}{*}{P-12} & Inference for Numerical and Categorical Data & 11-22-2020\\
 \hline
 \end{tabular}
 \end{center}
